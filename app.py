@@ -20,7 +20,7 @@ st.set_page_config(
 
 def fetch_poster(movie_id, movie_title):
 
-    API_KEY = "691105c942b734886a4953b000a2e585"
+    API_KEY = st.secrets["TMDB_API_KEY"]
 
     # Method 1: Try using movie ID
     try:
