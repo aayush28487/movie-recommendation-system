@@ -4,7 +4,7 @@ A movie recommendation system built using Python, Machine Learning, and Streamli
 
 ## 🚀 Live Demo
 
-👉 [Open Movie Recommendation System](https://movie-recommendation-system-4cghs2sx2j2hydikbknnx4.streamlit.app/)
+👉 https://movie-recommendation-system-4cghs2sx2j2hdyikbkhnx4.streamlit.app/
 
 ## 🛠️ Technologies Used
 
